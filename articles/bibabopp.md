@@ -1,6 +1,6 @@
 ---
 publish_date: '2018-08-09 14:00:00'
-published: false
+published: true
 title: Bibabopp 234 678
 tags:
   - abc
