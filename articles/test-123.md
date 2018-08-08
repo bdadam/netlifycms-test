@@ -1,6 +1,8 @@
 ---
 title: Test 123
-slug:  test-123
 ---
+Body...
+
+
 
 Body...
